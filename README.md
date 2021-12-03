@@ -2,7 +2,7 @@
 This project is intended for educational purpose , Not Allowed to sell.
 
 # User Shop App
-<img src="https://user-images.githubusercontent.com/76838562/144526532-bfec36c1-930f-4a5d-8b78-24399548f3b5.jpg" align="left" height="800" width="500" >
+<img src="https://user-images.githubusercontent.com/76838562/144526532-bfec36c1-930f-4a5d-8b78-24399548f3b5.jpg" align="left" height="800" width="200" >
 <img src="https://user-images.githubusercontent.com/76838562/144526150-588e9930-68a5-4557-a955-d7e16fb7bcb9.jpg" align="left" height="800" width="500" >
 <img src="https://user-images.githubusercontent.com/76838562/144526575-f945e572-3234-45c0-9212-cf5fa72b4506.jpg" align="left" height="800" width="500" >
 <img src="https://user-images.githubusercontent.com/76838562/144526604-82b272d5-cae9-43a2-b9b5-527a05d23d29.jpg" align="left" height="800" width="500" >
