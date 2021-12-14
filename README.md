@@ -1,4 +1,4 @@
-# Android-StoreApp-with-PHP
+# Android-StoreApp-with-PHP (Retrofit+RXjava+Room database+FCM Firebase Cloud Messaging)
 This project is intended for educational purpose , Not Allowed to sell.
 
 # User Shop App
@@ -13,7 +13,6 @@ This project is intended for educational purpose , Not Allowed to sell.
 <img src="https://user-images.githubusercontent.com/76838562/144526725-77d8f537-e4b0-40f8-a126-ef6570555917.jpg" align="left" height="900" width="350" >
 
 # MySQL Database
-
 ![Screenshot 2021-12-14 041107](https://user-images.githubusercontent.com/76838562/145920787-dcc3acfd-a429-4a9c-89a7-6072863f4c85.png)
 
 ![Screenshot 2021-12-14 041800](https://user-images.githubusercontent.com/76838562/145921110-e9eb0de6-e398-4084-93fc-7e1becde4543.png)
