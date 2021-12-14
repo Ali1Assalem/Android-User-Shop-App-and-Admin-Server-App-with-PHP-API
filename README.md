@@ -1,4 +1,4 @@
-# Android-StoreApp-with-PHP (Retrofit+RXjava+Room database+FCM Firebase Cloud Messaging)
+# Android StoreApp with PHP (Retrofit+RXjava+Room database+FCM Firebase Cloud Messaging)
 This project is intended for educational purpose , Not Allowed to sell.
 
 # User Shop App
