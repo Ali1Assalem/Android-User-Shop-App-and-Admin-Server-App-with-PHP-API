@@ -15,4 +15,6 @@ This project is intended for educational purpose , Not Allowed to sell.
 
 ![Screenshot 2021-12-14 041107](https://user-images.githubusercontent.com/76838562/145920787-dcc3acfd-a429-4a9c-89a7-6072863f4c85.png)
 
+![Screenshot 2021-12-14 041800](https://user-images.githubusercontent.com/76838562/145921110-e9eb0de6-e398-4084-93fc-7e1becde4543.png)
 
+![Screenshot 2021-12-14 041826](https://user-images.githubusercontent.com/76838562/145921121-8b88271f-9c3d-4efe-9a20-c73ed925f660.png)
