@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/order_new"
+        android:enabled="true"
+        android:title="New"
+        android:icon="@drawable/ic_baseline_fiber_new_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/order_cancel"
+        android:enabled="true"
+        android:title="Cancelled"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/order_processing"
+        android:enabled="true"
+        android:title="Processing"
+        android:icon="@drawable/ic_baseline_room_service_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/order_shipping"
+        android:enabled="true"
+        android:title="Shipping"
+        android:icon="@drawable/ic_baseline_local_shipping_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/order_shipped"
+        android:enabled="true"
+        android:title="Shipped"
+        android:icon="@drawable/ic_baseline_done_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>

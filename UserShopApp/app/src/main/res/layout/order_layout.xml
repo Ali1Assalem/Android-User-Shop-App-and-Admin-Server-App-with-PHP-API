@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="4dp"
+    android:layout_marginBottom="4dp"
+    app:contentPadding="8dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txt_order_id"
+                android:text="#11"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/txt_order_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_weight="1"
+                android:background="@drawable/text_round"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="15$"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+
+
+
+        <TextView
+            android:id="@+id/txt_order_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/order_address"
+            android:textSize="18sp"
+            android:textStyle="italic" />
+
+
+        <TextView
+            android:id="@+id/txt_order_comment"
+            android:text="@string/order_comment"
+            android:textSize="18sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txt_order_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Order Status : Processing"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txt_order_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="order Time"
+            android:textColor="@color/colorLightGrey"
+            android:textSize="12sp"
+            android:textStyle="italic"
+            tools:ignore="RelativeOverlap" />
+    </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

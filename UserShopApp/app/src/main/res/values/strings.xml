@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">User Shop App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+
+    <string name="confirm">Confirm</string>
+
+    <string name="already_have_account">Already have account?</string>
+
+    <string name="email">Email</string>
+    <string name="store_app">Store App</string>
+    <string name="dont_have_account">Dont have account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="order_address">Order Address</string>
+    <string name="order_comment">Order Comment</string>
+</resources>
