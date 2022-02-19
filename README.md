@@ -13,7 +13,6 @@ This project is intended for educational purpose , Not Allowed to sell.
 <img src="https://user-images.githubusercontent.com/76838562/144526725-77d8f537-e4b0-40f8-a126-ef6570555917.jpg" align="left" height="900" width="350" >
 <img src="https://user-images.githubusercontent.com/76838562/145927800-8b63c32a-022e-45cb-a993-1e173781cddc.jpg" align="right" height="900" width="350" >
 
-# Admin Server App
 ![1](https://user-images.githubusercontent.com/76838562/152214283-13642e28-d7be-4e65-afab-458d4e7622b7.png)
 ![2](https://user-images.githubusercontent.com/76838562/152214510-b09c24fe-efd8-4c6d-afc3-8d146073e795.png)
 ![3](https://user-images.githubusercontent.com/76838562/152214695-71cd3619-f6b2-4f75-8a84-0ce2051cf0d4.png)
